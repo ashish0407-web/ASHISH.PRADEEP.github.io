@@ -89,28 +89,43 @@
 }
 .vishal {
 	width: 1495px;
-	height: 500px;
+	height: 800px;
+	border-style: groove;
+	display: inline-block;
+}
+.vishal {
+	width: 1495px;
+	height: 1010px;
 	border-style: groove;
 	display: inline-block;
 }
 .audiosize {
-	width: 500px;
+	width: 1000px;
 	height: 30px;
 	border-style: groove;
 	background-color:red;
 }
 .video {
 	margin-top: 2px;
-	width: 880px;
+	width: 740px;
 	height: 500px;
 	display: inline-block;
 }
+.video2 {
+	margin-top: 2px;
+	width: 740px;
+	height: 500px;
+	display: inline-block;
+	float: right;
+}
 .GAYTRI {
 	/*margin-top: 2px;*/
-	float: right;
-	width: 600px;
+	
+	width: 1490px;
 	/*margin-top: 250px;*/
-	/*background-image: url(ASMA.jpg .width:"600px" height:"495px");*/
+	background-image: url(0.jpg);
+	background-size: cover;
+	background-position: center;
 	height: 495px;
 	background-color:lightgreen;
 	border-style: groove;
@@ -126,7 +141,7 @@
 	height: auto;
 }*/
 .GAYTRI b{
-	margin-left: 150px;
+	margin-left: 600px;
 	color:blue;
 	font-size: 40px;
 
@@ -152,8 +167,8 @@
 }
 .audio {
 	box-sizing: 200px;
-	width: 500px;
-	height: 30px;
+	width: 900px;
+	height: 80px;
 	color:black;
 	margin-top: 10px;
 }
